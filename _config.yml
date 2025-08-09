@@ -4,7 +4,7 @@ title: Test_title
 logo: /images/logo.png
 description: Test_description
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "n1nja9.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://cyb3rninja-19.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/"}
@@ -35,7 +35,7 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll/tagging
+  # - jekyll/tagging
 
 kramdown:
   parse_block_html: true
