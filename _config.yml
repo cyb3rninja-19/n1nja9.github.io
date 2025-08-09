@@ -3,7 +3,7 @@
 title: Test_title
 logo: /images/logo.png
 description: Test_description
-baseurl: "/" # The subpath of your site, e.g. /blog
+baseurl: "" # The subpath of your site, e.g. /blog
 url: "n1nja9.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 social:
