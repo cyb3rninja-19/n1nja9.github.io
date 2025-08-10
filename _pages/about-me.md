@@ -6,29 +6,38 @@ image: '/images/H9cker.jpg'
 
 ---
 
-Hi, my name is ABHISHEK. I work as a Cyber Security Consultant and have a passion for exploring how technology works and can be hacked! 
 
-My main area of interests lie in - <b>Application Security (AppSec), Infra Pentesting, Red Teaming</b> and other forms of <b>Offensive Security</b> 
 
-I’ve always been curious about how things work from my childhood —especially how they can be broken. Over time, this curiosity has driven me to dive deep into securing not only software and networks but also physical systems and critical infrastructure.
-
-In this blog, I share my experiences and thoughts on the cybersecurity, from vulnerabilities and hacking techniques to practical tips on defense. I hope you find something useful here, and I’d love to connect and chat about all things cybersecurity.
 
 ---
 
-Hi, my name is ABHISHEK (aka n1nja9) — a security consultant, curious hacker, and a goal chaser. I spend my days working as a Cyber Security Consultant, scalable systems… and my nights figuring out how to break them (ethically, of course 😈).
+Hi, my name is <b>ABHISHEK (aka n1nja9)🥷🏻</b> — a cybersecurity consultant, curious hacker, and a goal chaser.
 
-🔐 What I Do
+
+I’ve always been curious about how things work from my childhood —especially how they can be broken. Over time, this curiosity has driven me to dive deep into securing not only software and networks but also physical systems and critical infrastructure.
+
+
+In this blog, I share my experiences and thoughts on the cybersecurity, from vulnerabilities and hacking techniques to practical tips on defense. I hope you find something useful here, and I’d love to connect and chat about all things cybersecurity.
+
+
+👨‍💻 <b>What I Do</b>
+
 Vulnerability Management, Application Pentesting
 
-📌 Current Focus
+📌 <b>Current Focus</b>
+
 - Leveling up in Web app, API and Mobile App Hacking
 - Bug Bounty Hunting
-- Exploring and Learning Infrastructure Pentesting
 - Weight training: Chasing that 75kg goal 🏋️
 - Gotta REACH THE PEAK!
 
-🧠 Personal Philosophy
+❤️‍🔥<b>Area of Interests</b> 
+
+- Application Security (AppSec)
+- Infra Pentesting and Red Teaming
+- Other forms of Offensive Security 
+
+🧠 <b>Personal Philosophy</b>
 
 Research like a scholar, think like a hacker, and learn like a kid.
 
