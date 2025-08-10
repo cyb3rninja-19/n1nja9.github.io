@@ -29,6 +29,7 @@ Vulnerability Management, Application Pentesting, and secure code analysis
 - Gotta REACH THE PEAK!
 
 🧠 Personal Philosophy
+
 Research like a scholar, think like a hacker, and learn like a kid.
 “Improve at least 1% every day.”
 
