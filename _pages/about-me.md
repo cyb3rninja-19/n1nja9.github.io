@@ -2,7 +2,8 @@
 layout: page
 title: About Me
 permalink: /about-me/
-image: '/images/H9cker.jpg'
+image: '/images/H9cker.jpg
+
 ---
 
 Hi, my name is ABHISHEK. I work as a Cyber Security Consultant and have a passion for exploring how technology works and can be hacked! 
@@ -13,5 +14,23 @@ I’ve always been curious about how things work from my childhood —especially
 
 In this blog, I share my experiences and thoughts on the cybersecurity, from vulnerabilities and hacking techniques to practical tips on defense. I hope you find something useful here, and I’d love to connect and chat about all things cybersecurity.
 
+---
+
+Hi, my name is ABHISHEK (aka n1nja9) — a security consultant, curious hacker, and a goal chaser. I spend my days working as a Cyber Security Consultant, scalable systems… and my nights figuring out how to break them (ethically, of course 😈).
+
+🔐 What I Do
+Vulnerability Management, Application Pentesting, and secure code analysis
+
+📌 Current Focus
+- Leveling up in Web app, API and Mobile App Hacking
+- Bug Bounty Hunting
+- Exploring and Learning Infrastructure Pentesting
+- Weight training: Chasing that 75kg goal 🏋️
+- Gotta REACH THE PEAK!
+
+🧠 Personal Philosophy
+Research like a scholar, think like a hacker, and learn like a kid.
+“Improve at least 1% every day.”
 
 
+Research | Train | Hack | Repeat!
