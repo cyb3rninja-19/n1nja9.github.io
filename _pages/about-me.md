@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
-image: '/images/Mountain_Peak and Climber.jpg'
+image: '/images/H9cker.jpg'
 ---
 
 Hi, my name is ABHISHEK. I work as a Cyber Security Consultant and have a passion for exploring how technology works and can be hacked! 
@@ -13,5 +13,5 @@ I’ve always been curious about how things work from my childhood —especially
 
 In this blog, I share my experiences and thoughts on the cybersecurity, from vulnerabilities and hacking techniques to practical tips on defense. I hope you find something useful here, and I’d love to connect and chat about all things cybersecurity.
 
-![Time to think]({{site.baseurl}}/images/501.jpg)
+
 
