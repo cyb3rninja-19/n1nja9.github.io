@@ -19,7 +19,7 @@ In this blog, I share my experiences and thoughts on the cybersecurity, from vul
 Hi, my name is ABHISHEK (aka n1nja9) — a security consultant, curious hacker, and a goal chaser. I spend my days working as a Cyber Security Consultant, scalable systems… and my nights figuring out how to break them (ethically, of course 😈).
 
 🔐 What I Do
-Vulnerability Management, Application Pentesting, and secure code analysis
+Vulnerability Management, Application Pentesting
 
 📌 Current Focus
 - Leveling up in Web app, API and Mobile App Hacking
@@ -31,6 +31,7 @@ Vulnerability Management, Application Pentesting, and secure code analysis
 🧠 Personal Philosophy
 
 Research like a scholar, think like a hacker, and learn like a kid.
+
 “Improve at least 1% every day.”
 
 
